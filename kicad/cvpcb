@@ -1,0 +1,17 @@
+CvpcbFramePos_x=0
+CvpcbFramePos_y=32
+CvpcbFrameSize_x=1426
+CvpcbFrameSize_y=936
+CvpcbFrameMaximized=0
+CvpcbFramePerspective=layout2|name=MainToolbar;caption=;state=139644;dir=1;layer=6;row=0;pos=0;prop=100000;bestw=619;besth=36;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Libraries;caption=Footprint Libraries;state=2044;dir=4;layer=1;row=0;pos=0;prop=100000;bestw=285;besth=936;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Components;caption=Symbol : Footprint Assignments;state=2044;dir=5;layer=0;row=0;pos=0;prop=100000;bestw=400;besth=220;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Footprints;caption=Filtered Footprints;state=2044;dir=2;layer=1;row=0;pos=0;prop=100000;bestw=427;besth=936;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|name=Buttons;caption=;state=139644;dir=3;layer=6;row=0;pos=0;prop=100000;bestw=489;besth=114;minw=-1;minh=-1;maxw=-1;maxh=-1;floatx=-1;floaty=-1;floatw=-1;floath=-1|dock_size(1,6,0)=36|dock_size(4,1,0)=287|dock_size(5,0,0)=402|dock_size(2,1,0)=427|dock_size(3,6,0)=114|
+CvpcbFrameMostRecentlyUsedPath=/home/vishhvaan
+FilterFootprint=4
+file1=
+file2=
+file3=
+file4=
+file5=
+file6=
+file7=
+file8=
+file9=
